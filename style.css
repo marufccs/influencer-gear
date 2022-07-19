@@ -53,3 +53,11 @@ margin-bottom: 0px;
     margin-right: 165px;
 }
 /* First section done  */
+/* Second section- the brand names  */
+.logos {
+    display: flex;
+    justify-content: center;
+    margin: 185px 165px 100px 165px;
+}
+.logos img {
+    margin-right: 60px;}
