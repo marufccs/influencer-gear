@@ -112,7 +112,7 @@ margin-bottom: 0px;
     }
     .featured-description{
         position: relative;
-        top: -30px;
+        top: 60px;
         height: 224px;
         width: 610px;
     }
@@ -136,4 +136,35 @@ margin-bottom: 0px;
         color: white;
         background-color:#E02C6D ;
         padding: 10px 24px;
+    }
+    *{
+        margin: 0;
+        border: 0;
+    }
+    footer {
+      
+        width: 100%;
+        height: 200px;
+        color: white;
+        background-color: black;
+    }
+    .end {
+   position: relative;
+   top: 50px;
+    }
+    footer h4{
+        font-size: 24px;
+        text-align: center;
+    }
+    footer p  {
+        font-size: 14px;
+        text-align: center;
+    }
+    footer a{
+        position: relative;
+        left: 47%;
+        top: 10px;
+        color: white;
+        margin-right: 10px;
+        
     }
