@@ -61,3 +61,51 @@ margin-bottom: 0px;
 }
 .logos img {
     margin-right: 60px;}
+    .second h3{
+        font-size: 28px;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .collections {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 100px;
+    }
+    .description {
+        height: 476px;
+        width: 305px;
+        padding: 15px;
+    }
+    .images{
+        margin-bottom: 16px;
+    }
+    .title {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    .price {
+        font-size: 24px;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .rating {
+        color: orange;
+    }
+    .shipping {
+        font-size: 14px;
+        margin: 0;
+    }
+    .see-more {
+        
+        display: flex;
+        justify-content: center ;
+    }
+    .text {
+        text-decoration: none;
+        color: #E02C6D;
+        position: relative;
+        left: 820px;
+    }
