@@ -22,3 +22,34 @@ body {
     margin: 0 20px;
 }
 /* Header ends  */
+/* Introduction to the Journey(first section */
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.first-tag {
+    width: 582px;
+    height: 270px;
+    margin-top: 146px;
+    margin-left: 120px;
+}
+.start-journey {
+    font-size: 52px;
+margin-bottom: 0px;
+}
+.lorem {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.prebook {
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 24px;
+    border-radius: 41px;
+    color: white;
+}
+.camera {
+    margin-top: 80px;
+    margin-right: 165px;
+}
+/* First section done  */
